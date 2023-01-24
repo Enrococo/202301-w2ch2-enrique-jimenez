@@ -1,0 +1,23 @@
+{
+  "name": "202301-w2ch2-enrique-jimenez",
+  "version": "1.0.0",
+  "description": "INSTRUCCIONES STRICT EQUALS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enrococo/202301-w2ch2-enrique-jimenez.git"
+  },
+  "author": "Enrocoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enrococo/202301-w2ch2-enrique-jimenez/issues"
+  },
+  "homepage": "https://github.com/Enrococo/202301-w2ch2-enrique-jimenez#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
